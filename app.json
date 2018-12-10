@@ -5,6 +5,10 @@
     "slug": "airbnb",
     "privacy": "public",
     "sdkVersion": "31.0.0",
+    "splash": {
+      "image": "./Assets/airbnb_splash.png",
+      "backgroundColor": "#fd5c63"
+    },
     "platforms": ["ios", "android"],
     "version": "1.0.0",
     "orientation": "portrait",
